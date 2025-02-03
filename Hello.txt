@@ -1,1 +1,5 @@
-Hello and it has been changed in origin
+<<<<<<< HEAD
+=======
+Hello
+This is a Branch change
+>>>>>>> New-Branch
