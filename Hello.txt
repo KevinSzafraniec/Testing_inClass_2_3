@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 =======
-Hello
+Hello. I changed the first line
 This is a Branch change
 >>>>>>> New-Branch
