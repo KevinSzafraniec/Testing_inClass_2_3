@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
-Hello. I changed the first line
+Hello.
+=======
+Hello. BRANCH CHANGED THIS LINE
+>>>>>>> New-Branch
 This is a Branch change
 >>>>>>> New-Branch
